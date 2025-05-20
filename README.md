@@ -1,7 +1,7 @@
 # Suzuki Sales Performance Analysis
 
 ## Overview
-This project presents an interactive dashboard developed using Power BI to analyze Suzuki's sales performance on a quarterly and annual basis. The project aims to provide comprehensive insights into sales, profitability, sales team performance, and sales distribution by geographical category and Product category.
+This project presents an interactive dashboard developed using Power BI to analyze Suzuki sales performance on a quarterly and annual basis. The project aims to provide comprehensive insights into sales, profitability, sales team performance, and sales distribution by geographical category and Product category.
 
 
 ## Dashboard Video
