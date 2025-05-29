@@ -3,9 +3,10 @@
 ## Overview
 This project presents an interactive dashboard developed using Power BI to analyze Suzuki sales performance on a quarterly and annual basis. The project aims to provide comprehensive insights into sales, profitability, sales team performance, and sales distribution by geographical category and Product category.
 
-
 ## Dashboard Video
-https://github.com/user-attachments/assets/bdf5d12f-9171-4d6e-aa14-922b71359a8a
+
+https://github.com/user-attachments/assets/9b8b0092-7cc0-4419-bf57-24eabf5a1f92
+
 
 
 ## Key Features of the Dashboard:
