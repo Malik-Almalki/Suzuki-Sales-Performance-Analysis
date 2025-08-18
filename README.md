@@ -37,4 +37,7 @@ https://github.com/user-attachments/assets/9b8b0092-7cc0-4419-bf57-24eabf5a1f92
 Fictional Suzuki sales data from 2017 to 2020, broken down into quarterly segments, was utilized.
 
 
+#
+## Website
 
+[Malik Almalki | مالك المالكي](https://malik.com.sa/)
