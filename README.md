@@ -40,4 +40,4 @@ Fictional Suzuki sales data from 2017 to 2020, broken down into quarterly segmen
 #
 ## Website
 
-[Malik Almalki | مالك المالكي](https://malik.com.sa/)
+[Malik Almalki ](https://malik.com.sa/)
